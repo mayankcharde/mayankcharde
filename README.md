@@ -10,10 +10,10 @@
 - 👨‍💻 All of my projects are available at [https://admirable-cranachan-837301.netlify.app/](https://admirable-cranachan-837301.netlify.app/)
 
 - 💬 Ask me about **Full Stack Development (MERN, REST APIs, Authentication, Deployment)
--  - Artificial Intelligence & Machine Learning (Models, Datasets, Applications)
--  - Web Development (React, Node.js, Express, MongoDB)
--  - API Integrations and Cloud Services
--  -Building responsive web apps**
+                  - Artificial Intelligence & Machine Learning (Models, Datasets, Applications)
+                  - Web Development (React, Node.js, Express, MongoDB)
+                  - API Integrations and Cloud Services
+                   -Building responsive web apps**
 
 - 📫 How to reach me **mayankcharde2@gmail.com**
 
