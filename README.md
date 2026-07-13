@@ -1,6 +1,114 @@
-# 💫 About Me:
-👋 Hi, I'm Mayank Charde<br><br>I am a Full-Stack Developer and aspiring AI Engineer, currently pursuing a B.Tech in Artificial Intelligence. I specialize in building scalable, user-focused web applications and integrating intelligent systems into modern software solutions. My goal is to bridge AI and full-stack development to create impactful digital products.<br><br>🔭 I’m currently working on<br><br>Developing full-stack web applications using the MERN Stack, focusing on RESTful APIs, authentication, database management, and deployment workflows.<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (Java), Generative AI, and Large Language Models (LLMs), along with AI/ML model integration in web applications.<br><br>👯 I’m looking to collaborate on<br><br>AI-powered web applications, Generative AI and LLM-based tools, and scalable MERN stack projects.<br><br>💬 Ask me about<br><br>Full-Stack Development (MERN Stack, REST APIs, Authentication, Deployment), Artificial Intelligence & Machine Learning applications, API integrations, cloud services, and building responsive web solutions.<br><br>👨‍💻 My Portfolio<br><br>https://portfolio-seven-sand-47.vercel.app/<br><br>📫 How to reach me<br><br>mayankcharde2@gmail.com<br><br>⚡ Fun fact<br><br>I enjoy transforming complex problems into clean, efficient, and intelligent software solutions.
-
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     HERO SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+ 
+<div align="center">
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🚀 Building the future, one commit at a time  ✨            ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+ 
+</div>
+<div align="center">
+<!-- Status Badge -->
+<img src="https://img.shields.io/badge/🚀_Available_for_Projects-00d4ff?style=for-the-badge&labelColor=0a0a1a&color=00d4ff" />
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech_AI-2026-7b2ffc?style=for-the-badge&labelColor=0a0a1a" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mayankcharde&style=for-the-badge&color=ff6bff&labelColor=0a0a1a&label=PROFILE+VIEWS" />
+<br/><br/>
+ 
+<!-- Action Buttons -->
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-View_Live-7b2ffc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a1a)](https://portfolio-seven-sand-47.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-ff6bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a)](mailto:mayankcharde2@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a)](https://linkedin.com/in/mayank-charde-56636b2a4)
+ 
+</div>
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TYPING EFFECT BANNER                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+ 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🔭+Full-Stack+Developer+%7C+AI+Engineer;⚡+MERN+Stack+%7C+LLMs+%7C+Cloud;🧠+Building+Intelligent+Web+Applications;🚀+Open+to+Collaborate+%26+Innovate!" />
+</div>
+<br/>
+---
+ 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+ 
+<div align="center">
+## 🌌 `< About Me />`
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=800&color=ff6bff&center=true&vCenter=true&width=600&height=40&lines=👋+Hi%2C+I'm+Mayank+Charde!;🚀+Full-Stack+Developer+%26+AI+Engineer;🧠+B.Tech+Artificial+Intelligence+(2026);⚡+MERN+Stack+%7C+LLMs+%7C+Cloud+%7C+Open+Source" />
+</div>
+<br/>
+<table>
+<tr>
+<td width="55%" valign="top">
+### 👨‍💻 Who Am I?
+ 
+I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing a **B.Tech in Artificial Intelligence**. I specialize in building scalable, user-focused web applications and integrating intelligent systems into modern software.
+ 
+> *"My goal is to bridge AI and full-stack development to create impactful digital products."*
+ 
+<br/>
+**🔭 Currently Working On**
+- Full-stack web apps with the **MERN Stack**
+- RESTful APIs, JWT Auth & deployment workflows
+- Database management with MongoDB & MySQL
+**🌱 Currently Learning**
+- Data Structures & Algorithms **(Java)**
+- **Generative AI** & Large Language Models (LLMs)
+- AI/ML model integration in web applications
+**👯 Looking to Collaborate On**
+- AI-powered web applications
+- Generative AI & LLM-based tools
+- Scalable MERN stack projects
+**💬 Ask Me About**
+- Full-Stack Development (MERN, REST APIs, Auth, Deploy)
+- AI & Machine Learning applications
+- API integrations & cloud services
+**⚡ Fun Fact**
+> I enjoy transforming complex problems into clean, efficient, and intelligent software solutions.
+ 
+</td>
+<td width="45%" valign="top">
+### 📬 Quick Info
+ 
+| | |
+|---|---|
+| 👤 **Name** | Mayank Charde |
+| 🎓 **Degree** | B.Tech in AI (2026) |
+| 🌍 **Location** | India 🇮🇳 |
+| 💼 **Portfolio** | [View Live ↗](https://portfolio-seven-sand-47.vercel.app/) |
+| 📧 **Email** | [mayankcharde2@gmail.com](mailto:mayankcharde2@gmail.com) |
+| 🤝 **Status** | Open to Collaborate ✅ |
+ 
+<br/>
+### ⚡ Skill Proficiency
+ 
+| Domain | Progress |
+|--------|----------|
+| 🌐 Full-Stack Dev | `████████████████████░` 90% |
+| 🤖 AI / ML | `████████████████░░░░░` 75% |
+| ☁️ Cloud & DevOps | `█████████████████░░░░` 70% |
+| 📱 UI / UX Design | `███████████████████░░` 85% |
+| 🔌 APIs & Integration | `████████████████████░` 88% |
+ 
+<br/>
+![Mayank's Dev Card](https://github-readme-stats.vercel.app/api/wakatime?username=mayankcharde&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=00d4ff&text_color=ffffff&layout=compact)
+ 
+</td>
+</tr>
+</table>
+<br/>
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mayank-charde-56636b2a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankcharde2@gmail.com) 
