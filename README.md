@@ -1,24 +1,30 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=635BFF&height=220&section=header&text=Mayank%20Charde&fontSize=70&fontColor=ffffff&animation=twinkling&desc=AI%20%26%20Full%20Stack%20Engineer%20%7C%20Agentic%20Systems%20Architect&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Mayank Charde Header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YOUR%20NAME&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=YOUR%20ROLE%20%7C%20YOUR%20LOCATION&descAlignY=55&descSize=18" width="100%" />
+  <br/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+YOUR+NAME+👋;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+cool+things+one+commit+at+a+time+🚀" alt="Typing SVG" />
-</a>
+  <!-- Dynamic Typing Animation / Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Agentic+Systems+%26+Multi-Agent+Architectures;Crafting+High-Performance+MERN+%26+FastAPI+Applications;LangGraph+%7C+LangChain+%7C+Generative+AI+Enthusiast;AI+Intern+%40+Infosys+Springboard+%7C+MERN+Dev+%40+Codec+Tech" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<!-- Profile views + followers badges -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=22D3EE&labelColor=0A101F" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Building%20%26%20Learning-10B981?style=for-the-badge&labelColor=0A101F" />
+  <!-- Quick Action Badges -->
+  <a href="https://personal-portfolio-delta-inky-35.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Command_Center-635BFF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayank-charde-56636b2a4">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank_Charde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mayankcharde2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mayankcharde2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/mayankcharde">
+    <img src="https://img.shields.io/badge/GitHub-mayankcharde-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 </div>
 
@@ -26,195 +32,165 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### ⚡ Operational Overview
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
-
-### 🧑‍💻 About Me
-
-```yaml
-name:       YOUR NAME
-role:       Full-Stack Developer
-location:   Your City, Country
-education:  B.Tech / B.E — Your College
-status:     Building + Learning + Shipping
-
-currently:
-  - 🔭 Working on something awesome
-  - 🌱 Learning new technologies daily
-  - 👯 Open to collaborations
-  - 💬 Ask me about anything tech!
-
-fun_fact: >
-  I debug with console.log and I'm not ashamed 😄
+```gdb
+[COMMAND_CENTER_OS] :: USER_PROFILE_INITIALIZED
+-----------------------------------------------------------------------------------------
+• NAME         : Mayank Charde (Callsign: MAVERICK)
+• ROLE         : AI & Full Stack Developer | Multi-Agent Systems Developer
+• EDUCATION    : B.Tech in Artificial Intelligence @ St. Vincent Pallotti College of Engg (CGPA: 8.6)
+• LOCATION     : Nagpur, Maharashtra, India
+• FOCUS        : LangGraph Orchestration, RAG Pipelines, MERN Stack, Scalable APIs
+• STATUS       : 🚀 Available for Software Engineering & AI Roles
+-----------------------------------------------------------------------------------------
 ```
 
-<br clear="right"/>
+---
+
+### 👨‍💻 About Me
+
+- 🔬 **AI & Agentic Systems Specialist**: Focused on building autonomous multi-agent systems using **LangGraph**, **LangChain**, and **Mistral AI / Gemini APIs**.
+- 💻 **Full-Stack Developer**: Crafting sleek, performant web platforms with **React, Node.js, Express, FastAPI, and MongoDB**.
+- 🏢 **Industry Experience**:
+  - **AI Intern @ Infosys Springboard**: Engineering OCR + NLP contract negotiation assistants for loan/lease risk clause detection.
+  - **MERN Stack Developer Intern @ Codec Technologies India**: Optimizing backend response latencies and building interactive UI components.
+- 🎯 **Achievements**: National Finalist at **Webathon 2.0**, Top 15 Team at **SWALAMBH 2026**, 3rd Place globally at **Beatbots AI Challenge**.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🛠 Tech Stack & Ecosystem
 
 <div align="center">
 
-### ⚡ Tech Stack & Tools
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-0A101F?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Java](https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0A101F?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0A101F?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0A101F?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Firebase](https://img.shields.io/badge/Firebase-0A101F?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0A101F?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Firestore](https://img.shields.io/badge/Firestore-0A101F?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-0A101F?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0A101F?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-0A101F?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<!-- Streak -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak" />
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Generative AI & Agents** | `LangGraph` `LangChain` `Gemini API` `Mistral AI` `RAG` `MCP` `ChromaDB` `PyTorch` `TensorFlow` |
+| **Frontend Development** | `React.js` `JavaScript (ES6+)` `TypeScript` `Tailwind CSS` `Framer Motion` `HTML5/CSS3` |
+| **Backend & Databases** | `Node.js` `Express.js` `FastAPI` `Python` `MongoDB` `MySQL` `REST APIs` `JWT Auth` |
+| **Tools & Infrastructure** | `Git` `GitHub` `Docker` `Postman` `Puppeteer` `Socket.IO` `Vercel` `Render` `Razorpay` |
 
 <br/>
 
-<!-- Stats + Top Languages side by side -->
-<!-- ⚠️  Replace YOUR-INSTANCE with your self-hosted Vercel URL (see Setup Guide Phase 2) -->
-<!-- ⚠️  Until self-hosted, you can temporarily use: https://github-readme-stats.vercel.app -->
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+**Skills Ticker & Icons**
+
+[![My Skills](https://skillicons.dev/icons?i=py,react,nodejs,express,fastapi,mongodb,js,ts,tailwind,docker,git,github,postman,vscode,figma,html,css,vite,vercel)](https://skillicons.dev)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🚀 Featured Flagship Projects
+
+<br/>
+
+#### 1. 🤖 [Literai – Multi-Agent AI Research Assistant](https://github.com/mayankcharde/literai)
+> **Production-Ready Autonomous Multi-Agent Research Platform**  
+> Orchestrates **9 specialized AI agents** (Orchestrator, Planner, Searcher, Analyzer, Writer, Fact Checker, Reviewer, Summarizer, Formatter) built with **LangGraph, LangChain, and Mistral AI**. Features automated report generation, RAG Q&A with source attribution, quality scoring, and ChromaDB vector search.  
+> 🔗 **Live Demo**: [literai-neon.vercel.app](https://literai-neon.vercel.app/) | 💻 **Tech**: `LangGraph` `LangChain` `FastAPI` `React` `MongoDB` `ChromaDB`
+
+#### 2. 📑 [IntelliBlog – Multi-Agent AI Blog Writing System](https://github.com/mayankcharde/Blog-Writing)
+> **Autonomous Content Generation & SEO Pipeline**  
+> Multi-agent blog generation framework that handles topic research, content structuring, SEO optimization, and editorial revisions using **LangGraph** workflows.  
+> 🔗 **Live Demo**: [blog-writing-xdnf.vercel.app](https://blog-writing-xdnf.vercel.app/) | 💻 **Tech**: `LangGraph` `Mistral AI` `Node.js` `React` `Express`
+
+#### 3. 🎓 [NADT Taxpayer Education Platform](https://github.com/mayankcharde/nadt4)
+> **Secure E-Learning & Automated Certification Platform**  
+> Developed for NADT to enhance taxpayer awareness. Features video modules, progress analytics, and automated PDF certificate generation/mailing via **Puppeteer & SendGrid**.  
+> 🔗 **Live Demo**: [nadt4.vercel.app](https://nadt4.vercel.app/) | 💻 **Tech**: `React` `Node.js` `MongoDB` `Razorpay` `Puppeteer` `SendGrid`
+
+#### 4. 🔍 [FoundIt – QR-Enabled Lost & Found Platform](https://github.com/mayankcharde/FoundIt)
+> **Privacy-Preserving Contact & Real-Time Messaging**  
+> QR code generation for items. Finders scan QR codes to start real-time anonymous chats with owners via **Socket.IO** without exposing personal phone numbers.  
+> 🔗 **Live Demo**: [found-it-jet.vercel.app](https://found-it-jet.vercel.app/) | 💻 **Tech**: `MERN Stack` `Socket.IO` `QR Code Engine`
+
+#### 5. 🤖 [DeepSeek AI Clone](https://github.com/mayankcharde/FINAL-DEEPSEEK2)
+> **Multimodal AI Interface with Speech & Image Capabilities**  
+> Speech-to-text input, dynamic AI response streaming, custom image synthesis, and Razorpay subscription tier management.  
+> 🔗 **Live Demo**: [final-deepseek-2.vercel.app](https://final-deepseek-2.vercel.app/) | 💻 **Tech**: `MERN Stack` `Gemini API` `Razorpay` `Speech APIs`
+
+---
+
+### 💼 Professional Experience
+
+```yaml
+- Role: AI Intern
+  Company: Infosys Springboard
+  Duration: Nov 2025 - Present | Virtual
+  Key Deliverables:
+    - Engineered AI Car Lease & Loan Contract Negotiation Assistant.
+    - Built Tesseract OCR pipeline for legal document parsing.
+    - Implemented LangChain NLP pipelines for financial clause extraction & risk evaluation.
+
+- Role: MERN Stack Developer Intern
+  Company: Codec Technologies India
+  Duration: Jun 2025 - Present | Hybrid
+  Key Deliverables:
+    - Developing production MERN applications with responsive UI design.
+    - Optimized MongoDB query pipelines, reducing backend response latency.
+```
+
+---
+
+### 🏆 Achievements & Certifications
 
 <div align="center">
 
-### 🐍 Contribution Snake
+| Achievement / Award | Event / Issuer | Highlights |
+| :--- | :--- | :--- |
+| 🚀 **SWALAMBH 2026 Top 15** | SVPCET Nagpur x GCVI/HCL | Selected among top 15 teams for AI-driven real-world solution |
+| 🌟 **Webathon 2.0 National Finalist** | Webathon 2.0 Mumbai | Ranked Top 20 nationally out of 125+ participating teams |
+| 🎵 **Beatbots Runner-Up (3rd)** | AI Music Gen Challenge | 3rd place globally for classical-rock fusion AI generation |
 
-<!-- ⚠️  Only add this AFTER the GitHub Action runs green (output branch must exist first) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-</picture>
+<br/>
+
+**Badges & Certifications**
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep_Learning_Fundamentals-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI_2025_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Full_Stack_Generative_%26_Agentic_AI-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Generative_AI_Essentials-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys-Java_Programming-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-### 📈 Activity Graph
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0A101F&color=22D3EE&line=7C3AED&point=A78BFA&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=mayankcharde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Mayank's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankcharde&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankcharde&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
+
+<br/><br/>
+
+<!-- Activity Snake -->
+<img src="https://raw.githubusercontent.com/mayankcharde/mayankcharde/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   TROPHIES                                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-### 🏆 GitHub Trophies
+  ### 📬 Connect & Collaborate
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  Got a project in mind, interested in multi-agent AI systems, or looking to collaborate? Reach out!
 
-</div>
+  [![Portfolio](https://img.shields.io/badge/Website-personal--portfolio-635BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-delta-inky-35.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mayank--charde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-charde-56636b2a4)
+  [![Email](https://img.shields.io/badge/Email-mayankcharde2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankcharde2@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-@mayankcharde-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mayankcharde)
 
----
+  <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SOCIAL BADGES                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+  <sub>Designed with 💜 by Mayank Charde | Built for GitHub Profile Special Repository</sub>
 
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER/">
-  <img src="https://img.shields.io/badge/Twitter-0A101F?style=for-the-badge&logo=x&logoColor=22D3EE&labelColor=0A101F" alt="Twitter/X" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:YOUR@EMAIL.COM">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FOOTER WAVE                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-
-<div align="center">
-  <i>⭐ Star some repos if you find them useful — it motivates me to keep building!</i>
 </div>
