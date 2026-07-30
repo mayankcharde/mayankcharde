@@ -2,8 +2,8 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/mayankcharde/mayankcharde/main/dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mayankcharde/main/light.svg">
-  <img alt="Mayank Charde" src="https://raw.githubusercontent.com/mayankcharde/main/light.svg">
+    srcset="https://raw.githubusercontent.com/mayankcharde/mayankcharde/main/light.svg">
+  <img alt="Mayank Charde" src="https://raw.githubusercontent.com/mayankcharde/mayankcharde/main/light.svg">
 </picture>
 
 ## 🚀 About Me
